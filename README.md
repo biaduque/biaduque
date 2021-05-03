@@ -8,7 +8,10 @@
 * [My website](https://beatrizduque.carrd.co/)
 * [My research website](https://starsandexoplanets.org)
 
-
+<p align="center">
+<img src="https://beatrizduque.carrd.co/assets/images/image17.jpg?vb15736af5">
+</p>
+    
 <!--
 **biaduque/biaduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,32 @@
 ### Hi there 👋
 
 
-
 <p align="center">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/147494408@N05/51156017346/in/dateposted-public/" title="biaduque"><img src="https://live.staticflickr.com/65535/51156017346_c891ab327d_h.jpg" alt="biaduque"></a>
+</p>
+
+<!-- Redes sociais -->
+<p align="center">
+<!-- Twitter -->
+    <a href="https://twitter.com/_BiaDuque_">
+        <img src="https://img.shields.io/badge/Twitter-1da1f2?&style=flat-square&logo=twitter&logoColor=white" />
+    </a>
+<!-- Instagram -->
+    <a href="https://www.instagram.com/bia_duque/">
+        <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+<!-- Facebook -->
+    <a href="https://www.facebook.com/Beatriz Duque Teixeira/">
+        <img src="https://img.shields.io/badge/Facebook-3b5998?&style=flat-square&logo=facebook&logoColor=white" />
+    </a>
+<!-- Gmail -->
+    <a href="mailto:biaduque7@gmail.com?subject=Olá%20Gui">
+        <img src="https://img.shields.io/badge/Gmail-bb001b?&style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+<!-- Linkedin -->
+    <a href="https://www.linkedin.com/feed/?trk=Officekey">
+        <img src="https://img.shields.io/badge/Linkedin-0e76a8?&style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
 </p>
 
 ***
@@ -12,9 +35,6 @@
 - 📫 How to reach me: biaduque7@hotmail.com
 
 *** 
-
-* [🐦 Twitter](https://twitter.com/_BiaDuque_)
-* [💻 Linkedin](https://www.linkedin.com/feed/?trk=Officekey)
 * [🌐 My website](https://beatrizduque.carrd.co/)
 * [💡 My research website](https://starsandexoplanets.org)
 

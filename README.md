@@ -31,7 +31,7 @@
 
 ***
 <div>
-    <img align="right" width="350px" src="https://live.staticflickr.com/65535/51157186380_941bd95313_w.jpg" title="548DEA14-B998-4B50-A6D0-ACF9A5D4FA5A">
+    <img align="right" width="350px" src="https://github.com/biaduque/biaduque/blob/main/548DEA14-B998-4B50-A6D0-ACF9A5D4FA5A.png">
         - 🔭 I’m currently a Apple Developer Academy | Mackenzie and Researcher at the Mackenzie Radiology, Astronomy and Astrophysics Center (CRAAM)
         - 📫 How to reach me: biaduque7@hotmail.com
     </p>

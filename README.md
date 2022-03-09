@@ -41,7 +41,7 @@
 
 *** 
 * [🌐 My orcid](https://orcid.org/0000-0001-7042-8289)
-* [�✨ My Lattes](https://bv.fapesp.br/pt/pesquisador/710329/beatriz-duque-estrada-teixeira-da-silva/)
+* [✨ My Lattes](https://bv.fapesp.br/pt/pesquisador/710329/beatriz-duque-estrada-teixeira-da-silva/)
 * [💡 My research website](https://starsandexoplanets.org)
 
    

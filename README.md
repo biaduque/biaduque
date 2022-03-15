@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/Gmail-bb001b?&style=flat-square&logo=gmail&logoColor=white" />
     </a>
 <!-- Linkedin -->
-    <a href="https://www.linkedin.com/feed/?trk=Officekey">
+    <a href="https://www.linkedin.com/in/beatriz-duque/">
         <img src="https://img.shields.io/badge/Linkedin-0e76a8?&style=flat-square&logo=linkedin&logoColor=white" />
     </a>
 </p>

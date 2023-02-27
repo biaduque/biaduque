@@ -7,17 +7,9 @@
 
 <!-- Redes sociais -->
 <p align="center">
-<!-- Twitter -->
-    <a href="https://twitter.com/_BiaDuque_">
-        <img src="https://img.shields.io/badge/Twitter-1da1f2?&style=flat-square&logo=twitter&logoColor=white" />
-    </a>
 <!-- Instagram -->
     <a href="https://www.instagram.com/bia_duque/">
         <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
-    </a>
-<!-- Facebook -->
-    <a href="https://www.facebook.com/Beatriz Duque Teixeira/">
-        <img src="https://img.shields.io/badge/Facebook-3b5998?&style=flat-square&logo=facebook&logoColor=white" />
     </a>
 <!-- Gmail -->
     <a href="mailto:biaduque7@gmail.com?subject=Olá%20Gui">

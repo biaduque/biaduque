@@ -25,7 +25,8 @@
 <div>
     <img align="right" width="350px" src="https://github.com/biaduque/biaduque/blob/main/548DEA14-B998-4B50-A6D0-ACF9A5D4FA5A.png">
     <p>
-        - 🔭 I’m currently a Apple Developer Academy | Mackenzie and Researcher at the Mackenzie Radio-Astronomy and Astrophysics Center (CRAAM)
+        - 👩‍💻 Currently I'm a iOS Developer at F1rst | Santander 
+        - 🔭 I’m a Alumni from Apple Developer Academy | Mackenzie and Researcher at the Mackenzie Radio-Astronomy and Astrophysics Center (CRAAM)
        <br> - 📫 How to reach me: biaduque7@hotmail.com </br>
     </p>
 </div>

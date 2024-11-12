@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
 <p align="center">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/147494408@N05/51156017346/in/dateposted-public/" title="biaduque"><img src="https://live.staticflickr.com/65535/51156017346_c891ab327d_h.jpg" alt="biaduque"></a>
+<a data-flickr-embed="true" href="" title="biaduque"><img src="" alt=""></a>
 </p>
 
 <!-- Redes sociais -->
@@ -37,9 +36,8 @@
 * [🌐My orcid](https://orcid.org/0000-0001-7042-8289)
 * [✨My Lattes](https://bv.fapesp.br/pt/pesquisador/710329/beatriz-duque-estrada-teixeira-da-silva/)
 * [💡My research website](https://starsandexoplanets.org)
-* [📄My professional Resume](https://github.com/biaduque/biaduque/files/14089330/CV-Beatriz.Duque.pdf)
+* [📄My professional Resume](https://github.com/user-attachments/files/17721694/CV-Beatriz.Duque.-.EN.pdf)
 
-   
 <!--
 **biaduque/biaduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

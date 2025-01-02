@@ -36,7 +36,8 @@
 * [🌐My orcid](https://orcid.org/0000-0001-7042-8289)
 * [✨My Lattes](https://bv.fapesp.br/pt/pesquisador/710329/beatriz-duque-estrada-teixeira-da-silva/)
 * [💡My research website](https://starsandexoplanets.org)
-* [📄My professional Resume](https://github.com/user-attachments/files/17721694/CV-Beatriz.Duque.-.EN.pdf)
+* [📄My professional Resume](https://github.com/user-attachments/files/18287960/CV-Beatriz.Duque.-.EN.pdf)
+
 
 <!--
 **biaduque/biaduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

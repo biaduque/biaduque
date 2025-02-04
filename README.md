@@ -7,7 +7,7 @@
 <!-- Redes sociais -->
 <p align="center">
 <!-- Instagram -->
-    <a href="https://www.instagram.com/bia_duque/">
+    <a href="https://www.instagram.com/triz.dev/">
         <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
     </a>
 <!-- Gmail -->
